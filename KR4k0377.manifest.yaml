@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0377_001.yaml, hash: 'sha256:d679d42b9c3b734aa75653569c3d460f1556d91205cf4f2eb833d20b54f804f0'}
+  - {seq: 1, filename: KR4k0377_001.yaml, hash: 'sha256:7b028f585bdd21ea9e78a6b58bb556bb7c58cd2dfea44d8315b7eab2f1ad4630'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0377_001.markers.yaml, hash: 'sha256:1cb210455ddd024b4e1f01194da55afdf45921f8ed5db59afd20fe211f54f78e'}
+  - {seq: 1, role: markers, filename: assets/KR4k0377_001.markers.yaml, hash: 'sha256:e03d22ce1c58b01696d246f6599e36ebc91e35b51f27acf6529b393453cf5195'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 田融趙書
   type: section
   level: 1
-hash: sha256:e5522c89433f2e8b4e7c4649fa7ee4c1ae7c2b8815d0b8edaace4923d6d3dd9e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:05500e6dd1fc8d2beb0e6402fb65d0481a9c6aae0867b1e75b318b2d21eecc0b
